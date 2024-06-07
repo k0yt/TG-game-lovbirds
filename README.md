@@ -1,4 +1,4 @@
-# TH-game-lovbirds
+# TG-game-lovbirds
 
 адаптировать под телегу 
 
